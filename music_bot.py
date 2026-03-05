@@ -15,7 +15,7 @@ from telegram.ext import (
 from telegram.error import BadRequest
 
 # ─── Настройки ────────────────────────────────────────────────────────────────
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"   # ← вставьте токен от @BotFather
+BOT_TOKEN = "https://github.com/alexey000000000/RKN/blob/main/music_bot.py"   # ← вставьте токен от @BotFather
 DB_PATH   = "music_bot.db"
 
 logging.basicConfig(
